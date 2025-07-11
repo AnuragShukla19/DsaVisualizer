@@ -131,7 +131,7 @@ const Home = () => {
             {/* Social Links */}
             <div className="flex space-x-6 ustify-center ">
               <a 
-                href="https://github.com/Divyanshi01615" 
+                href="https://github.com/AnuragShukla19" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center space-x-3 text-gray-300 hover:text-blue-400 transition-colors"
@@ -140,7 +140,7 @@ const Home = () => {
                 <span>GitHub</span>
               </a>
               <a 
-                href="https://www.linkedin.com/in/divyanshi-singh-bhadauriya-47592b283/" 
+                href="https://www.linkedin.com/in/anuragshukla0811/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center space-x-3 text-gray-300 hover:text-blue-400 transition-colors"
@@ -149,7 +149,7 @@ const Home = () => {
                 <span>LinkedIn</span>
               </a>
               <a 
-                href="mailto:singhbhadauriyadivyanshi@gmail.com" 
+                href="mailto:as0969320@gmail.com" 
                 className="flex items-center space-x-3 text-gray-300 hover:text-blue-400 transition-colors"
               >
                 <Mail className="h-6 w-6" />
