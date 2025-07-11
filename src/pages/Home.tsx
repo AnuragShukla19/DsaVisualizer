@@ -160,7 +160,7 @@ const Home = () => {
           </div>
           {/* Profile Info */}
           <div className="mt-8 text-center">
-            <h3 className="text-2xl font-bold text-white">Divyanshi Singh Bhadauriya</h3>
+            <h3 className="text-2xl font-bold text-white">Anurag Shukla & Team</h3>
             <p className="text-gray-300 mt-2">All Rights Reserved</p>
           </div>
         </div>
